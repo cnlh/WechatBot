@@ -1,0 +1,8 @@
+chatGPTAccountPool:
+  - email: cnliuhe@126.com
+    password: Aa397520
+    isGoogleLogin: false
+chatPrivateTiggerKeyword: "小河河"
+chatTiggerRule: ""
+openAIProxy: ""
+disableGroupMessage: true
